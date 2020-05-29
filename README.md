@@ -19,4 +19,7 @@ The returned expression is in Reverse Polish Notation, that is:
 [100, 25, '+', 5, '-', 6, '*', 3, '+', 1, '+']
 ```
 means
-```((100+25)-5)*6+3+1```
+
+```
+((100+25)-5)*6+3+1
+```
