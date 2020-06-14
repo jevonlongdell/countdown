@@ -1,4 +1,4 @@
-# Coundown
+# Countdown
 Solves the number puzzles from the "Countdown" TV show
 
 An example
