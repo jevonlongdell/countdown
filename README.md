@@ -30,7 +30,8 @@ means
 
 An example
 
-``` $ python3 coundown_word_game.py
+```
+> python3 coundown_word_game.py
 Enter given letters: redcat
 
 Given letters:
